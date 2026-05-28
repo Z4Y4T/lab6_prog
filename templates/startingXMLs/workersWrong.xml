@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workers>
+  <worker>
+    <id>1</id>
+    <name>Alice Johnson</name>
+    <coordinates>
+      <x>42</x>
+      <y>-10.5</y>
+    </coordinates>
+    <creationDate>2024-03-15 09:30:00</creationDate>
+    <salary>85000.00</salary>
+    <startDate>2022-06-01 09:00</startDate>
+    <position>DEVELOPER</position>
+    <status>HIRED</status>
+    <organization>
+      <employeesCount>150</employeesCount>
+      <type>COMMERCIAL</type>
+      <postalAddress>
+        <zipCode>196084</zipCode>
+      </postalAddress>
+    </organization>
+  </worker>
+  <worker>
+    <id>1</id>  <!-- дубликат ID -->
+    <name>Bob Smith</name>
+    <coordinates>
+      <x>99</x>  <!-- x > 53, нарушение ограничения -->
+      <y>-10.0</y>
+    </coordinates>
+    <creationDate>2024-01-10 14:00:00</creationDate>
+    <salary>-500.00</salary>  <!-- отрицательная зарплата -->
+    <startDate>01/15/2020 08:30</startDate>  <!-- неверный формат даты -->
+    <position>JANITOR</position>  <!-- несуществующая позиция -->
+    <status>HIRED</status>
+    <organization>
+      <employeesCount>-10</employeesCount>  <!-- отрицательное количество -->
+      <type>PRIVATE</type>  <!-- несуществующий тип -->
+      <postalAddress>
+        <zipCode>190000</zipCode>
+      </postalAddress>
+    </organization>
+  </worker>
+</workers>

@@ -1,0 +1,33 @@
+update 1
+Updated Name
+15
+25.0
+55000
+2024-06-15 10:00
+HEAD_OF_DIVISION
+HIRED
+yes
+120
+TRUST
+yes
+777777
+
+insert_at 0
+New First Worker
+5
+10.0
+40000
+2024-06-20 11:00
+COOK
+REGULAR
+yes
+50
+GOVERNMENT
+yes
+111222
+
+show
+
+clear
+
+show

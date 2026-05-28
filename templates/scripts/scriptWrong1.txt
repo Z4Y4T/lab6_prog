@@ -1,0 +1,19 @@
+info
+
+unknown_command_xyz
+
+show
+
+add
+Bad Date Worker
+10
+20.0
+50000
+2024-99-99 99:99
+DEVELOPER
+HIRED
+100
+COMMERCIAL
+123456
+
+show

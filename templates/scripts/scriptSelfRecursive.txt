@@ -1,0 +1,19 @@
+info
+
+show
+
+execute_script templates/scripts/scriptSelfRecursive.txt
+
+add
+Recursive Worker
+5
+10.0
+40000
+2024-06-04 12:00
+DEVELOPER
+HIRED
+yes
+50
+COMMERCIAL
+yes
+666666
