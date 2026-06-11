@@ -1,0 +1,43 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClientMain",
+            "request": "launch",
+            "mainClass": "client.main.ClientMain",
+            "projectName": "lab6_prog_fcbeb673"
+        },
+        {
+            "type": "java",
+            "name": "ServerMain",
+            "request": "launch",
+            "mainClass": "server.main.ServerMain",
+            "projectName": "lab6_prog_fcbeb673"
+        },
+        {
+            "type": "java",
+            "name": "ClientMain",
+            "request": "launch",
+            "mainClass": "main.ClientMain",
+            "projectName": "lab6_prog_fcbeb673"
+        },
+        {
+            "type": "java",
+            "name": "ServerMain",
+            "request": "launch",
+            "mainClass": "main.ServerMain",
+            "projectName": "lab6_prog_fcbeb673"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "main.Main",
+            "args": "",
+            "env": {
+                "WORKER_FILE": "templates/startingXMLs/workersCorect.xml"
+            }
+        }
+    ]
+}

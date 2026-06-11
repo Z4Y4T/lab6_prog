@@ -7,9 +7,9 @@
       <x>42</x>
       <y>-10.5</y>
     </coordinates>
-    <creationDate>2024-03-15 09:30:00</creationDate>
+    <creationDate>2024-03-15T09:30:00</creationDate>
     <salary>85000.00</salary>
-    <startDate>2022-06-01 09:00</startDate>
+    <startDate>2022-06-01T09:00</startDate>
     <position>DEVELOPER</position>
     <status>HIRED</status>
     <organization>
@@ -27,9 +27,9 @@
       <x>10</x>
       <y>-62.9</y>
     </coordinates>
-    <creationDate>2024-01-10 14:00:00</creationDate>
+    <creationDate>2024-01-10T14:00:00</creationDate>
     <salary>120000.50</salary>
-    <startDate>2020-01-15 08:30</startDate>
+    <startDate>2020-01-15T08:30</startDate>
     <position>HEAD_OF_DIVISION</position>
     <status>RECOMMENDED_FOR_PROMOTION</status>
     <organization>
@@ -47,9 +47,9 @@
       <x>53</x>
       <y>0.0</y>
     </coordinates>
-    <creationDate>2023-11-20 11:15:00</creationDate>
+    <creationDate>2023-11-20T11:15:00</creationDate>
     <salary>45000.75</salary>
-    <startDate>2023-03-10 10:00</startDate>
+    <startDate>2023-03-10T10:00</startDate>
     <position></position>
     <status>REGULAR</status>
     <organization/>
